@@ -51,3 +51,24 @@ First project. The learning goals are as follows - learn how to:
     ```bash
     #!/bin/bash
     ```
+
+### [0x01. Shell, permissions](./0x00-shell_basics/README.md) 
+
+#### 1<sup>st</sup> December, 2022
+
+Second project. The learning goals are as follows - learn how to:
+
+1. Use the following commands
+    
+    ```bash
+    chown
+    sudo
+    su
+    chown
+    chgrp
+    ```
+
+2. Create a user
+3. Create a group
+4. Print real and effective user and group id's
+5. Print groups a user is in

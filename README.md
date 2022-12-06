@@ -72,3 +72,31 @@ Second project. The learning goals are as follows - learn how to:
 3. Create a group
 4. Print real and effective user and group id's
 5. Print groups a user is in
+
+### [0x02. Shell, I/O Redirections and filters](./0x02-shell_redirections/README.md) 
+
+#### 5<sup>th</sup> December, 2022
+
+Third project. The learning goals are as follows - learn how to:
+
+1. Use the following commands
+    
+    ```bash
+    head
+    tail
+    find
+    wc
+    sort
+    uniq
+    grep
+    tr
+    ```
+
+2. What are special characters
+3. Understand what do the white spaces, single quotes, double quotes, backslash, comment, pipe, command separator, tilde and how and when to use them
+4. What is the /etc/passwd file and what is its format
+5. What is the /etc/shadow file and what is its format
+6. How to combine commands and filters with redirections
+7. How to send the output from one program to the input of another program
+8. How to get standard input from a file instead of the keyboard
+9. How to redirect standard output to a file

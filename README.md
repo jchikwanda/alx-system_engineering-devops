@@ -100,3 +100,33 @@ Third project. The learning goals are as follows - learn how to:
 7. How to send the output from one program to the input of another program
 8. How to get standard input from a file instead of the keyboard
 9. How to redirect standard output to a file
+
+### [0x03. Shell, init files, variables and expansions](./0x03-shell_variables_expansions/README.md) 
+
+#### 6<sup>th</sup> December, 2022
+
+Third project. The learning goals are as follows - learn how to:
+
+1. Use the following commands
+    
+    ```bash
+    printenv
+    set
+    unset
+    export
+    alias
+    unalias
+    source
+    prinf
+    .
+    ```
+
+2. What is the difference between a local and a global variable
+3. What is a reserved variable
+4. How to create, update and delete shell variables
+5. What are the roles of the following reserved variables: HOME, PATH, PS1
+6. What are special parameters
+7. What is the special parameter $??
+8. What is expansion and how to use them
+9. What is the difference between single and double quotes and how to use them properly
+10. How to do command substitution with $() and backticks
